@@ -53,6 +53,24 @@
   },
   "recentServers": [
     {
+      "id": "srv-1793076295691",
+      "name": "West Lands",
+      "role": "Developer",
+      "period": "2026 - Active",
+      "status": "Active",
+      "framework": "ESX",
+      "description": "Custom scripts, UI engineering, and performance tuning.",
+      "tags": [
+        "ESX",
+        "Lua 5.4",
+        "NUI"
+      ],
+      "discordInvite": "westlrp",
+      "cfxCode": "",
+      "bannerUrl": "",
+      "logoUrl": ""
+    },
+    {
       "id": "srv-1",
       "name": "South Central",
       "role": "Lead  Developer",
