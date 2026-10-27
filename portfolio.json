@@ -73,8 +73,8 @@
     }
   ],
   "theme": {
-    "accentColor": "#ef4444",
-    "secondaryAccent": "#f59e0b",
+    "accentColor": "#440057",
+    "secondaryAccent": "#6d00a8",
     "cardStyle": "glass"
   }
 }
