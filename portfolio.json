@@ -19,20 +19,7 @@
       "Net Event Security",
       "Server Optimization"
     ],
-    "links": [
-      {
-        "label": "GitHub",
-        "url": "https://github.com"
-      },
-      {
-        "label": "Cfx.re Forum",
-        "url": "https://forum.cfx.re"
-      },
-      {
-        "label": "Tebex Store",
-        "url": "https://tebex.io"
-      }
-    ]
+    "links": []
   },
   "myServer": {
     "enabled": true,
