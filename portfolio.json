@@ -40,24 +40,6 @@
   },
   "recentServers": [
     {
-      "id": "srv-1793160402760",
-      "name": "Snow City Chicago",
-      "role": "Developer",
-      "period": "2026 - Active",
-      "status": "Active",
-      "framework": "ESX",
-      "description": "Custom scripts, UI engineering, and performance tuning.",
-      "tags": [
-        "ESX",
-        "Lua 5.4",
-        "NUI"
-      ],
-      "discordInvite": "n4vQFST5fp",
-      "cfxCode": "",
-      "bannerUrl": "",
-      "logoUrl": ""
-    },
-    {
       "id": "srv-1793076295691",
       "name": "West Lands",
       "role": "Developer",
