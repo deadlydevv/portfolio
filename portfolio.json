@@ -41,8 +41,8 @@
   "recentServers": [
     {
       "id": "srv-1",
-      "name": "South Central",
-      "role": "Lead  Developer",
+      "name": "Compton RZ",
+      "role": "Owner",
       "period": "2026 - Active",
       "status": "Active",
       "framework": "ESX",
@@ -53,8 +53,8 @@
         "oxmysql",
         "Optimization"
       ],
-      "discordInvite": "MuFC4KEmaS",
-      "cfxCode": "3yyvjzr",
+      "discordInvite": "comptonrz",
+      "cfxCode": "7bbybla",
       "bannerUrl": "",
       "logoUrl": ""
     }
