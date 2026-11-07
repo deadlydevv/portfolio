@@ -40,6 +40,24 @@
   },
   "recentServers": [
     {
+      "id": "srv-1794037421023",
+      "name": "Bayside RP",
+      "role": "Lead Developer",
+      "period": "2026 - Active",
+      "status": "Active",
+      "framework": "ESX",
+      "description": "Custom scripts, UI engineering, and performance tuning.",
+      "tags": [
+        "ESX",
+        "Lua 5.4",
+        "NUI"
+      ],
+      "discordInvite": "baysiderp",
+      "cfxCode": "bd9xq5p",
+      "bannerUrl": "",
+      "logoUrl": ""
+    },
+    {
       "id": "srv-1",
       "name": "Compton RZ",
       "role": "Owner",
